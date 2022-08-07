@@ -13,3 +13,4 @@
 
 * string - строка (текст)
 * int - integer, целое
+* double - дробное
